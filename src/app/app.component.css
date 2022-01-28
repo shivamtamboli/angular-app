@@ -1,0 +1,20 @@
+.container-fluid
+{
+    padding-top: 20px;
+    background-image:url("../app/weather.webp");
+    background-size: cover;
+}
+
+.card
+{
+    border: 1px solid black;
+    height: 45vh;
+    width: 100%;
+    background-color:rgba(0,0,0,0.5)
+    
+}
+
+.row
+{
+    padding:1px;
+}
